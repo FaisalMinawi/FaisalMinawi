@@ -55,7 +55,7 @@ I'm a passionate Software Engineer and AI enthusiast with a strong foundation in
 - 🎯 Campus Director @ Millennium Fellowship
 - 🎤 Event Organizer @ TEDxAUB
 - 🌿 Contributor to various environmental and humanitarian initiatives
-- 📚 Published researcher in AI ethics and technology integration
+- 📚 Enthusiastic researcher in AI ethics and technology integration
 
 ## Get in Touch 📫
 
