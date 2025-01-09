@@ -6,7 +6,7 @@
 
 I'm a passionate Software Engineer and AI enthusiast with a strong foundation in computer science from the American University of Beirut. My journey in tech is driven by a deep curiosity and desire to create impactful solutions that make a difference.
 
-- 🔭 Currently working on AI-powered talent management systems at TalPods
+- 🔭 Currently a software engineer at Wego
 - 🌱 Learning and exploring advanced AI/ML techniques
 - 💡 Interested in serverless architecture, AI integration, and cloud computing
 - 🎓 Computer Science graduate with a 3.89 GPA
